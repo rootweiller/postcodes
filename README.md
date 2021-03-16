@@ -35,4 +35,8 @@ use postgresql, run docker for postgres
 
 
 # Documentation
-When run webserver open browser <code>http://127.0.0.1:8000/redoc</code>
+When run webserver open browser 
+
+    http://127.0.0.1:8000/redoc
+    http://127.0.0.1:8000/docs
+
