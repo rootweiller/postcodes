@@ -37,7 +37,8 @@ DJANGO_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'rest_framework'
+    'rest_framework',
+    'drf_yasg'
 ]
 
 POSTCODES_APPS = [
@@ -87,7 +88,7 @@ DATABASES = {
             'USER': 'postgres',
             'HOST': 'localhost',
             'PORT': '5432',
-            'PASSWORD': 'password'
+            'PASSWORD': 'yneerdav'
         },
 }
 
