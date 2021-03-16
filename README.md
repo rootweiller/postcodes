@@ -2,11 +2,14 @@
 Practice for API postcodes
 
 
-# Instalation
+# Installation
 
 for install create a environment with pyenv and run
 
     <code>pip install -r requirements.txt</code>
+    <code>python manage.py createsuperuser</code>
+
+with superuser open browser and navigate to admin <code>http://127.0.0.1:8000/admin</code>
 
 
 # Run Django Rest Framework
